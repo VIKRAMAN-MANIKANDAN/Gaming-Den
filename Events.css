@@ -1,0 +1,53 @@
+﻿body{
+	background-image:url('game-level-background-with-platforms-items_107791-3354.jpg');
+	background-repeat:no-repeat;
+	background-size:100% 100%;
+	margin:0;
+}
+.navbar{
+	font-family:Lato;
+	width:100%;
+	background:#CCFF99;
+	overflow:auto;
+}
+.navbar a{
+	font-family:Lato;
+	float:left;
+	padding:12px;
+	color:black;
+	text-decoration:none;
+	font-size:30px;
+	width:31%;
+	text-align:center;
+}
+.navbar a:hover{
+	background-color:gray;
+}
+h1{
+	color:#CC0000;
+	font-size:50px;
+	padding-top:5%;
+	padding-left:40%;
+	font-family:lato;
+}
+h2{
+	color:white;
+	font-family:lato;
+	font-size:35px;
+	padding-left:45%;
+}
+h3{
+	color:#CC0099;
+	font-family:lato;
+	font-size:25px;
+	padding-left:47%;
+}
+.footer{
+	position:fixed;
+	left:0;
+	bottom:0;
+	width:100%;
+	background-color:black;
+	color:white;
+	text-align:center;
+}

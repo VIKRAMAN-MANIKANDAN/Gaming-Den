@@ -1,0 +1,45 @@
+﻿body{
+	background-image:url('101535114-website-and-internet-contact-us-page-concept-with-hanging-icons-in-front-of-a-silver-background.jpg');
+	background-repeat:no-repeat;
+	background-size:100% 100%;
+	margin:0;
+}
+.sidenav{
+	height:100%;
+	width:130px;
+	position:fixed;
+	background-color:#00FFFF;
+	overflow-x:hidden;
+	padding:2px;
+}
+.sidenav a{
+	padding:16px 8px 8px 18px;
+	font-size:25px;
+	text-decoration:none;
+	color:white;
+	display:block;
+}
+.sidenav a:hover{
+	color:#660066;
+}
+h1{
+   font-size:45px;
+   padding-top:100px;
+   padding-left:40%;
+}
+h2{
+	padding:50px;
+	padding-left:35%;
+	font-size:30px;
+	font-family:lato;
+	color:maroon;
+}
+.footer{
+    padding-left:10px;
+	position:fixed;
+	left:0;
+	bottom:0;
+	width:100%;
+	color:black;
+	text-align:left;
+}
